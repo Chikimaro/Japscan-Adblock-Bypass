@@ -9,7 +9,7 @@ Japscan Adblock Bypass est un script utilisateur Tampermonkey créé pour améli
    - Assurez-vous que l'extension Tampermonkey est installée dans votre navigateur. Si ce n'est pas le cas, téléchargez-la [ici] (https://www.tampermonkey.net/).
 
 2. **Ajout de script:**
-   - Copiez le code fourni dans ce README.
+   - Copiez le code fourni dans ce [Code](https://github.com/Chikimaro/Japscan-Adblock-Bypass/blob/main/JapScan.js).
 
 3. **Ajouter le script dans Tampermonkey:**
    - Cliquez sur l'icône Tampermonkey dans la barre d'outils de votre navigateur.

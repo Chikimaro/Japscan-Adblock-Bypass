@@ -28,9 +28,9 @@ En plus du contournement de l'adblock, le script introduit une fonctionnalité p
 
 ## Notes importantes
 
-- Engagement de mise à jour:** L'auteur du script s'engage à le maintenir à jour afin d'assurer une compatibilité continue avec le site web Japscan.
+- *Engagement de mise à jour:* L'auteur du script s'engage à le maintenir à jour afin d'assurer une compatibilité continue avec le site web Japscan.
 
-- Extension indépendante:** Alors que le script était à l'origine destiné à être une extension indépendante, des contraintes de temps ont empêché une exploration approfondie de la documentation de Manifest V3.
+- *Extension indépendante:* Alors que le script était à l'origine destiné à être une extension indépendante, des contraintes de temps ont empêché une exploration approfondie de la documentation de Manifest V3.
 
 ---
 

@@ -10,7 +10,6 @@
 (function () {
   var originalFunction = window.a0W;
   window.a0W = function (arg) {
-  return undefined;
   };
   document.querySelector("#single-reader").addEventListener("click", function () {
     var path = window.location.pathname;
